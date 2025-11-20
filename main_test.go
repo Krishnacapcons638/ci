@@ -26,7 +26,7 @@ func TestAdd(t *testing.T) {
 				num1: 1,
 				num2: 5,
 			},
-			expec: 4,
+			expec: 6,
 		},
 	}
 
