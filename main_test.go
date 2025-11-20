@@ -21,7 +21,7 @@ func TestAdd(t *testing.T) {
 			},
 			expec: 3,
 		}, {
-			name: "fail",
+			name: "success",
 			inp: input{
 				num1: 1,
 				num2: 5,
